@@ -10,7 +10,7 @@ _Showcasing a small project with implementation of horizontal scroll effects. Ju
 
 ## Image
 
-![alt text](https://media3.giphy.com/media/puEtDJ3NG9vrC2aPUx/giphy.gif "Horizontal Skew Effect")
+![](showcase.gif "Horizontal Skew Effect")
 
 ## Font
 
